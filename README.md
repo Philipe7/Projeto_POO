@@ -21,6 +21,7 @@ Define a classe Restaurant, representando um restaurante com vários atributos. 
 # Clone o repositório:
 
 git clone https://github.com/seu-nome-de-usuario/aplicativo-pesquisa-restaurantes.git
+
 cd aplicativo-pesquisa-restaurantes
 
 # Execute o script main.py:
