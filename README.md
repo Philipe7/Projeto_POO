@@ -1,4 +1,6 @@
 # Projeto_POO
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Fvetores-premium%2Ficone-dos-desenhos-animados-com-pesquisa-de-restaurantes-infografico-plano-sinal-de-pino-de-localizacao-pagina-movel_22614051.htm&psig=AOvVaw0U1hIqySpZGjEQ-d28ibYM&ust=1702946433082000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDuyoDgl4MDFQAAAAAdAAAAABAD
+
 Aplicativo de Pesquisa de Restaurantes
 Este repositório contém um aplicativo de pesquisa de restaurantes por linha de comando escrito em Python. A aplicação permite que os usuários pesquisem restaurantes com base em vários critérios, como nome, classificação, distância, preço e culinária. O código está organizado em vários arquivos para melhorar a legibilidade e a manutenção.
 
