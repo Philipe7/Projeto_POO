@@ -26,6 +26,7 @@ cd aplicativo-pesquisa-restaurantes
 # Execute o script main.py:
 
 python main.py
+
 Siga as instruções na tela para pesquisar restaurantes com base em critérios diferentes.
 
 # Dependências:
