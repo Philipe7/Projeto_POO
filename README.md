@@ -22,7 +22,7 @@ Define a classe Restaurant, representando um restaurante com vários atributos. 
 
 # Clone o repositório:
 
-git clone https://github.com/seu-nome-de-usuario/aplicativo-pesquisa-restaurantes.git
+git clone https://github.com/Philipe7/restaurant_search.git
 
 cd aplicativo-pesquisa-restaurantes
 
